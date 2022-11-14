@@ -10,3 +10,4 @@ blurb
 # The theme used by the documentation is stored separately, so we need
 # to install that as well.
 python-docs-theme
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
