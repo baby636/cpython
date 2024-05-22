@@ -10,3 +10,4 @@ blurb
 # The theme used by the documentation is stored separately, so we need
 # to install that as well.
 python-docs-theme
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
